@@ -1,2 +1,22 @@
+# Python 
+.venv/
+__pycache__/
+*.pyc
 
+# Model artifacts (don't commit large binaries)
+*.weights
+*.onnx
+*.pt
+*.engine
+*.bin
+*.xml
 coco.names
+
+models/
+output/
+
+# Big media (keep small demo images if you want)
+*.mp4
+*.avi
+*.mov
+*.mkv
