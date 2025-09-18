@@ -53,5 +53,5 @@ It combines **YOLOv4-tiny object detection**, **Tesseract OCR**, and **Text-to-S
 ---
 
 ## Authors
-Shan Truong, Nick Sorbara, Mia Gassojne, Manu
+Shan Truong
 
